@@ -5,6 +5,12 @@
       "email": "abdus@gmail.com",
       "password": "123",
       "id": 1
+    },
+    {
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "masai",
+      "id": 2
     }
   ],
   "recipes": []
